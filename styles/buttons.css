@@ -1,0 +1,14 @@
+.button {
+	background-color: blueviolet; 
+	color: white;
+	border-radius: 7px;
+	padding:  16px;
+	border:  solid 1px blueviolet;
+}
+
+.button;hover {
+	transition : 1s;
+	color : blueviolet; 
+	background-color: rgba(138, 43, 226, 0.37);
+	margin
+}

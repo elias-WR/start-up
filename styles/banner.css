@@ -1,0 +1,30 @@
+.banner {
+	background-image: url(../images/banner.jpg); 
+	height: 65vh ;
+	background-size: cover ;
+	background-position: center ;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.banner h1 {
+	margin: 0;
+	color: white;
+	background-color: rgba(138, 43, 226, 0.37);
+	border-radius: 6px;
+	text-align: center;
+
+}
+
+.banner h2 {
+	margin: 0;
+	color: white;
+	background-color: rgba(138, 43, 226, 0.37);
+	border-radius: 6px;
+	margin: 3px;
+
+}
+
+
